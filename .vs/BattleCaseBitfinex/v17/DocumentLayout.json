@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A84B4-3B25-4C40-B026-9A2885591C22}|BattleCaseBitfinex\\BattleCaseBitfinex.csproj|c:\\users\\vflov\\documents\\github\\battlecasebitfinex\\battlecasebitfinex\\controllers\\pricedifferencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A84B4-3B25-4C40-B026-9A2885591C22}|BattleCaseBitfinex\\BattleCaseBitfinex.csproj|solutionrelative:battlecasebitfinex\\controllers\\pricedifferencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A84B4-3B25-4C40-B026-9A2885591C22}|BattleCaseBitfinex\\BattleCaseBitfinex.csproj|c:\\users\\vflov\\documents\\github\\battlecasebitfinex\\battlecasebitfinex\\quartz\\pricedifferencejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A84B4-3B25-4C40-B026-9A2885591C22}|BattleCaseBitfinex\\BattleCaseBitfinex.csproj|solutionrelative:battlecasebitfinex\\quartz\\pricedifferencejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A84B4-3B25-4C40-B026-9A2885591C22}|BattleCaseBitfinex\\BattleCaseBitfinex.csproj|c:\\users\\vflov\\documents\\github\\battlecasebitfinex\\battlecasebitfinex\\services\\futuresprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A84B4-3B25-4C40-B026-9A2885591C22}|BattleCaseBitfinex\\BattleCaseBitfinex.csproj|solutionrelative:battlecasebitfinex\\services\\futuresprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A84B4-3B25-4C40-B026-9A2885591C22}|BattleCaseBitfinex\\BattleCaseBitfinex.csproj|c:\\users\\vflov\\documents\\github\\battlecasebitfinex\\battlecasebitfinex\\services\\ifuturespriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A84B4-3B25-4C40-B026-9A2885591C22}|BattleCaseBitfinex\\BattleCaseBitfinex.csproj|solutionrelative:battlecasebitfinex\\services\\ifuturespriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A84B4-3B25-4C40-B026-9A2885591C22}|BattleCaseBitfinex\\BattleCaseBitfinex.csproj|c:\\users\\vflov\\documents\\github\\battlecasebitfinex\\battlecasebitfinex\\services\\quartzhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A84B4-3B25-4C40-B026-9A2885591C22}|BattleCaseBitfinex\\BattleCaseBitfinex.csproj|solutionrelative:battlecasebitfinex\\services\\quartzhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1A92C1-159F-459D-85CE-B640DFE8606B}|BattleCaseBitfinex.Domain\\BattleCaseBitfinex.Domain.csproj|c:\\users\\vflov\\documents\\github\\battlecasebitfinex\\battlecasebitfinex.domain\\entities\\futuresprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1A92C1-159F-459D-85CE-B640DFE8606B}|BattleCaseBitfinex.Domain\\BattleCaseBitfinex.Domain.csproj|solutionrelative:battlecasebitfinex.domain\\entities\\futuresprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1A92C1-159F-459D-85CE-B640DFE8606B}|BattleCaseBitfinex.Domain\\BattleCaseBitfinex.Domain.csproj|c:\\users\\vflov\\documents\\github\\battlecasebitfinex\\battlecasebitfinex.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1A92C1-159F-459D-85CE-B640DFE8606B}|BattleCaseBitfinex.Domain\\BattleCaseBitfinex.Domain.csproj|solutionrelative:battlecasebitfinex.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578F6C5-92DD-456A-A385-BBCB7458875B}|BattleCaseBitfinex.Infrastructure\\BattleCaseBitfinex.Infrastructure.csproj|c:\\users\\vflov\\documents\\github\\battlecasebitfinex\\battlecasebitfinex.infrastructure\\clients\\binanceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578F6C5-92DD-456A-A385-BBCB7458875B}|BattleCaseBitfinex.Infrastructure\\BattleCaseBitfinex.Infrastructure.csproj|solutionrelative:battlecasebitfinex.infrastructure\\clients\\binanceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578F6C5-92DD-456A-A385-BBCB7458875B}|BattleCaseBitfinex.Infrastructure\\BattleCaseBitfinex.Infrastructure.csproj|c:\\users\\vflov\\documents\\github\\battlecasebitfinex\\battlecasebitfinex.infrastructure\\clients\\ibinanceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578F6C5-92DD-456A-A385-BBCB7458875B}|BattleCaseBitfinex.Infrastructure\\BattleCaseBitfinex.Infrastructure.csproj|solutionrelative:battlecasebitfinex.infrastructure\\clients\\ibinanceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578F6C5-92DD-456A-A385-BBCB7458875B}|BattleCaseBitfinex.Infrastructure\\BattleCaseBitfinex.Infrastructure.csproj|c:\\users\\vflov\\documents\\github\\battlecasebitfinex\\battlecasebitfinex.infrastructure\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578F6C5-92DD-456A-A385-BBCB7458875B}|BattleCaseBitfinex.Infrastructure\\BattleCaseBitfinex.Infrastructure.csproj|solutionrelative:battlecasebitfinex.infrastructure\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578F6C5-92DD-456A-A385-BBCB7458875B}|BattleCaseBitfinex.Infrastructure\\BattleCaseBitfinex.Infrastructure.csproj|c:\\users\\vflov\\documents\\github\\battlecasebitfinex\\battlecasebitfinex.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578F6C5-92DD-456A-A385-BBCB7458875B}|BattleCaseBitfinex.Infrastructure\\BattleCaseBitfinex.Infrastructure.csproj|solutionrelative:battlecasebitfinex.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578F6C5-92DD-456A-A385-BBCB7458875B}|BattleCaseBitfinex.Infrastructure\\BattleCaseBitfinex.Infrastructure.csproj|c:\\users\\vflov\\documents\\github\\battlecasebitfinex\\battlecasebitfinex.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578F6C5-92DD-456A-A385-BBCB7458875B}|BattleCaseBitfinex.Infrastructure\\BattleCaseBitfinex.Infrastructure.csproj|solutionrelative:battlecasebitfinex.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578F6C5-92DD-456A-A385-BBCB7458875B}|BattleCaseBitfinex.Infrastructure\\BattleCaseBitfinex.Infrastructure.csproj|c:\\users\\vflov\\documents\\github\\battlecasebitfinex\\battlecasebitfinex.infrastructure\\repositories\\ipricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578F6C5-92DD-456A-A385-BBCB7458875B}|BattleCaseBitfinex.Infrastructure\\BattleCaseBitfinex.Infrastructure.csproj|solutionrelative:battlecasebitfinex.infrastructure\\repositories\\ipricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A578F6C5-92DD-456A-A385-BBCB7458875B}|BattleCaseBitfinex.Infrastructure\\BattleCaseBitfinex.Infrastructure.csproj|c:\\users\\vflov\\documents\\github\\battlecasebitfinex\\battlecasebitfinex.infrastructure\\repositories\\pricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A578F6C5-92DD-456A-A385-BBCB7458875B}|BattleCaseBitfinex.Infrastructure\\BattleCaseBitfinex.Infrastructure.csproj|solutionrelative:battlecasebitfinex.infrastructure\\repositories\\pricerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A84B4-3B25-4C40-B026-9A2885591C22}|BattleCaseBitfinex\\BattleCaseBitfinex.csproj|c:\\users\\vflov\\documents\\github\\battlecasebitfinex\\battlecasebitfinex\\battlecasebitfinex.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1C6A84B4-3B25-4C40-B026-9A2885591C22}|BattleCaseBitfinex\\BattleCaseBitfinex.csproj|solutionrelative:battlecasebitfinex\\battlecasebitfinex.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A84B4-3B25-4C40-B026-9A2885591C22}|BattleCaseBitfinex\\BattleCaseBitfinex.csproj|c:\\users\\vflov\\documents\\github\\battlecasebitfinex\\battlecasebitfinex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A84B4-3B25-4C40-B026-9A2885591C22}|BattleCaseBitfinex\\BattleCaseBitfinex.csproj|solutionrelative:battlecasebitfinex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A84B4-3B25-4C40-B026-9A2885591C22}|BattleCaseBitfinex\\BattleCaseBitfinex.csproj|c:\\users\\vflov\\documents\\github\\battlecasebitfinex\\battlecasebitfinex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C6A84B4-3B25-4C40-B026-9A2885591C22}|BattleCaseBitfinex\\BattleCaseBitfinex.csproj|solutionrelative:battlecasebitfinex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A84B4-3B25-4C40-B026-9A2885591C22}|BattleCaseBitfinex\\BattleCaseBitfinex.csproj|c:\\users\\vflov\\documents\\github\\battlecasebitfinex\\battlecasebitfinex\\battlecasebitfinex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C6A84B4-3B25-4C40-B026-9A2885591C22}|BattleCaseBitfinex\\BattleCaseBitfinex.csproj|solutionrelative:battlecasebitfinex\\battlecasebitfinex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex.Infrastructure\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "BattleCaseBitfinex.Infrastructure\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex.Infrastructure\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "BattleCaseBitfinex.Infrastructure\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:07:02.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BattleCaseBitfinex.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BattleCaseBitfinex.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:06:54.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BinanceClient.cs",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex.Infrastructure\\Clients\\BinanceClient.cs",
+              "RelativeDocumentMoniker": "BattleCaseBitfinex.Infrastructure\\Clients\\BinanceClient.cs",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex.Infrastructure\\Clients\\BinanceClient.cs",
+              "RelativeToolTip": "BattleCaseBitfinex.Infrastructure\\Clients\\BinanceClient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAC5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:09:01.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PriceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex.Infrastructure\\Repositories\\PriceRepository.cs",
+              "RelativeDocumentMoniker": "BattleCaseBitfinex.Infrastructure\\Repositories\\PriceRepository.cs",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex.Infrastructure\\Repositories\\PriceRepository.cs",
+              "RelativeToolTip": "BattleCaseBitfinex.Infrastructure\\Repositories\\PriceRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:08:11.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPriceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex.Infrastructure\\Repositories\\IPriceRepository.cs",
+              "RelativeDocumentMoniker": "BattleCaseBitfinex.Infrastructure\\Repositories\\IPriceRepository.cs",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex.Infrastructure\\Repositories\\IPriceRepository.cs",
+              "RelativeToolTip": "BattleCaseBitfinex.Infrastructure\\Repositories\\IPriceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:07:52.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FuturesPrice.cs",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex.Domain\\Entities\\FuturesPrice.cs",
+              "RelativeDocumentMoniker": "BattleCaseBitfinex.Domain\\Entities\\FuturesPrice.cs",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex.Domain\\Entities\\FuturesPrice.cs",
+              "RelativeToolTip": "BattleCaseBitfinex.Domain\\Entities\\FuturesPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:06:02.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex.Infrastructure\\Program.cs",
+              "RelativeDocumentMoniker": "BattleCaseBitfinex.Infrastructure\\Program.cs",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex.Infrastructure\\Program.cs",
+              "RelativeToolTip": "BattleCaseBitfinex.Infrastructure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:05:37.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBinanceClient.cs",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex.Infrastructure\\Clients\\IBinanceClient.cs",
+              "RelativeDocumentMoniker": "BattleCaseBitfinex.Infrastructure\\Clients\\IBinanceClient.cs",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex.Infrastructure\\Clients\\IBinanceClient.cs",
+              "RelativeToolTip": "BattleCaseBitfinex.Infrastructure\\Clients\\IBinanceClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:08:49.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex.Domain\\Program.cs",
+              "RelativeDocumentMoniker": "BattleCaseBitfinex.Domain\\Program.cs",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex.Domain\\Program.cs",
+              "RelativeToolTip": "BattleCaseBitfinex.Domain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:04:37.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuartzHostedService.cs",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex\\Services\\QuartzHostedService.cs",
+              "RelativeDocumentMoniker": "BattleCaseBitfinex\\Services\\QuartzHostedService.cs",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex\\Services\\QuartzHostedService.cs",
+              "RelativeToolTip": "BattleCaseBitfinex\\Services\\QuartzHostedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:19:54.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFuturesPriceService.cs",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex\\Services\\IFuturesPriceService.cs",
+              "RelativeDocumentMoniker": "BattleCaseBitfinex\\Services\\IFuturesPriceService.cs",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex\\Services\\IFuturesPriceService.cs",
+              "RelativeToolTip": "BattleCaseBitfinex\\Services\\IFuturesPriceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:06:28.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FuturesPrice.cs",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex\\Services\\FuturesPrice.cs",
+              "RelativeDocumentMoniker": "BattleCaseBitfinex\\Services\\FuturesPrice.cs",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex\\Services\\FuturesPrice.cs",
+              "RelativeToolTip": "BattleCaseBitfinex\\Services\\FuturesPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:03:43.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PriceDifferenceJob.cs",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex\\Quartz\\PriceDifferenceJob.cs",
+              "RelativeDocumentMoniker": "BattleCaseBitfinex\\Quartz\\PriceDifferenceJob.cs",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex\\Quartz\\PriceDifferenceJob.cs",
+              "RelativeToolTip": "BattleCaseBitfinex\\Quartz\\PriceDifferenceJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:18:04.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PriceDifferencesController.cs",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex\\Controllers\\PriceDifferencesController.cs",
+              "RelativeDocumentMoniker": "BattleCaseBitfinex\\Controllers\\PriceDifferencesController.cs",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex\\Controllers\\PriceDifferencesController.cs",
+              "RelativeToolTip": "BattleCaseBitfinex\\Controllers\\PriceDifferencesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:55:11.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BattleCaseBitfinex.http",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex\\BattleCaseBitfinex.http",
+              "RelativeDocumentMoniker": "BattleCaseBitfinex\\BattleCaseBitfinex.http",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex\\BattleCaseBitfinex.http",
+              "RelativeToolTip": "BattleCaseBitfinex\\BattleCaseBitfinex.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-15T04:20:15.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex\\Program.cs",
+              "RelativeDocumentMoniker": "BattleCaseBitfinex\\Program.cs",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex\\Program.cs",
+              "RelativeToolTip": "BattleCaseBitfinex\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:02:58.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex\\appsettings.json",
+              "RelativeDocumentMoniker": "BattleCaseBitfinex\\appsettings.json",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex\\appsettings.json",
+              "RelativeToolTip": "BattleCaseBitfinex\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T10:07:35.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BattleCaseBitfinex",
+              "DocumentMoniker": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex\\BattleCaseBitfinex.csproj",
+              "RelativeDocumentMoniker": "BattleCaseBitfinex\\BattleCaseBitfinex.csproj",
+              "ToolTip": "C:\\Users\\VFlov\\Documents\\GitHub\\BattleCaseBitfinex\\BattleCaseBitfinex\\BattleCaseBitfinex.csproj",
+              "RelativeToolTip": "BattleCaseBitfinex\\BattleCaseBitfinex.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-15T04:10:25.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

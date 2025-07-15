@@ -1,0 +1,11 @@
+@BattleCaseBitfinex_HostAddress = http://localhost:5033
+
+GET {{BattleCaseBitfinex_HostAddress}}/health/
+Accept: application/json
+
+###
+
+GET {{BattleCaseBitfinex_HostAddress}}/api/PriceDifferences
+Accept: application/json
+
+###
